@@ -1,0 +1,14 @@
+C:\Users\Austin\OneDrive\Desktop\ElevenFifty\CodingFoundations\dotnetProjects\csharpBasics\Bird_Challenge\bin\Debug\net7.0\Challenge.exe
+C:\Users\Austin\OneDrive\Desktop\ElevenFifty\CodingFoundations\dotnetProjects\csharpBasics\Bird_Challenge\bin\Debug\net7.0\Challenge.deps.json
+C:\Users\Austin\OneDrive\Desktop\ElevenFifty\CodingFoundations\dotnetProjects\csharpBasics\Bird_Challenge\bin\Debug\net7.0\Challenge.runtimeconfig.json
+C:\Users\Austin\OneDrive\Desktop\ElevenFifty\CodingFoundations\dotnetProjects\csharpBasics\Bird_Challenge\bin\Debug\net7.0\Challenge.dll
+C:\Users\Austin\OneDrive\Desktop\ElevenFifty\CodingFoundations\dotnetProjects\csharpBasics\Bird_Challenge\bin\Debug\net7.0\Challenge.pdb
+C:\Users\Austin\OneDrive\Desktop\ElevenFifty\CodingFoundations\dotnetProjects\csharpBasics\Bird_Challenge\obj\Debug\net7.0\Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Austin\OneDrive\Desktop\ElevenFifty\CodingFoundations\dotnetProjects\csharpBasics\Bird_Challenge\obj\Debug\net7.0\Challenge.AssemblyInfoInputs.cache
+C:\Users\Austin\OneDrive\Desktop\ElevenFifty\CodingFoundations\dotnetProjects\csharpBasics\Bird_Challenge\obj\Debug\net7.0\Challenge.AssemblyInfo.cs
+C:\Users\Austin\OneDrive\Desktop\ElevenFifty\CodingFoundations\dotnetProjects\csharpBasics\Bird_Challenge\obj\Debug\net7.0\Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Austin\OneDrive\Desktop\ElevenFifty\CodingFoundations\dotnetProjects\csharpBasics\Bird_Challenge\obj\Debug\net7.0\Challenge.dll
+C:\Users\Austin\OneDrive\Desktop\ElevenFifty\CodingFoundations\dotnetProjects\csharpBasics\Bird_Challenge\obj\Debug\net7.0\refint\Challenge.dll
+C:\Users\Austin\OneDrive\Desktop\ElevenFifty\CodingFoundations\dotnetProjects\csharpBasics\Bird_Challenge\obj\Debug\net7.0\Challenge.pdb
+C:\Users\Austin\OneDrive\Desktop\ElevenFifty\CodingFoundations\dotnetProjects\csharpBasics\Bird_Challenge\obj\Debug\net7.0\Challenge.genruntimeconfig.cache
+C:\Users\Austin\OneDrive\Desktop\ElevenFifty\CodingFoundations\dotnetProjects\csharpBasics\Bird_Challenge\obj\Debug\net7.0\ref\Challenge.dll
